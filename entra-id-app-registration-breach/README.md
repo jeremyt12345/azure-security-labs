@@ -138,7 +138,7 @@ Flags long-lived secrets and lists owners for every app registration so unexpect
 
 <img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/d6e9614c-b978-47a9-85e0-a0b9ebe71057" />
 
-- `screenshots/02-client-secret-expiry.png`
+
 
 - Client Secret-Expiry
 
