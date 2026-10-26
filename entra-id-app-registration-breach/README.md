@@ -134,7 +134,9 @@ Flags long-lived secrets and lists owners for every app registration so unexpect
 ## Screenshots
 
 
-- `screenshots/01-api-permissions.png`
+### 1. API permissions — tenant-wide Graph access with admin consent
+![API permissions](<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/4c4c676e-f2df-406d-b37e-54f3f2273c29" />
+)
 - `screenshots/02-client-secret-expiry.png`
 - `screenshots/03-owners.png`
 - `screenshots/04-expose-an-api.png`
